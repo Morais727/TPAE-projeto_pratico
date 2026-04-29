@@ -192,6 +192,6 @@ public class Main {
 
         sistema.cadastrarPedido(pedido);
 
-        System.out.println("Pedido cadastrado com sucesso!");
+        System.out.println("Pedido cadastrado com sucesso.");
     }
 }
